@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋-->
 
 <!--
 **Luna-JiangFeng/Luna-JiangFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,13 @@ Here are some ideas to get you started:
 - 🐧 Java全栈学习者
 - 👨‍💻 经历：Loading...
 - 🏡 作品：Loading...
+
+### 我的技能(my skills)   
+
+![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+
+
+## 今年汇总 
 
